@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-23 – Let's play music in HackClub.](#2026-10-23-lets-play-music-in-hackclub)
-2. [2026-10-23 – Made schematics of the PCB, decided the components of pcb to buy](#2026-10-23-made-schematics-of-the-pcb-decided-the-components)
+2. [2026-10-23 – Made schematics of the PCB, decided the components of pcb to buy.](#2026-10-23-made-schematics-of-the-pcb-decided-the-components)
 3. [2026-10-24 – Maybe I am too slow while making PCBs.](#2026-10-24-maybe-i-am-too-slow-while-making-pcbs)
 
 ## Design
@@ -34,11 +34,13 @@ First I wanted DF mini player & speaker on it but its budget was exceding the Ti
 
 [Timelapse](https://lookout.hackclub.com/api/media/bc660319-a8de-4204-986c-ff064b945f44/video.mp4)
 
-### 2026-10-23 – Made schematics of the PCB, decided the components of pcb to buy
+### 2026-10-23 – Made schematics of the PCB, decided the components of pcb to buy.
 
 **1.62h**
 
-Made schematics of the PCB, decided the components of pcb to buy
+Made schematics of the PCB, decided the components of pcb to buy.
+Finding the correct ESP along with the vendor I want to buy from was very difficult.
+Next I find the Power requirements for this ESP chip.
 
 ![IMG-20261023-WA0003](https://halflife.hackclub-assets.com/sessions/ep1qMwQHWINzTUPCyrZHu5URMCP5PTJD/5edf77ab1e065692d164e0a6d8780eeb85f88d5c2141fdeb93c0532332f61363.jpg)
 

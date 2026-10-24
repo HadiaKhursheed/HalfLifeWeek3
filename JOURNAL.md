@@ -57,7 +57,7 @@ Next I will find the Power requirements for this ESP chip.
 Maybe I am too slow while making PCBs.
 Previously I did all the schematic for placing the ESP12 E board and its pin connectors.
 Now I added AMS1117 IC that will provide ESP chip regular 3.3Volts because it is required for my ESP chip.
-Now on the PCB other component connectors are left to add
+Now on the PCB other component connectors are left to add.
 
 ![Screenshot 2026-10-24 123245](https://halflife.hackclub-assets.com/sessions/ep1qMwQHWINzTUPCyrZHu5URMCP5PTJD/abc3c4f6efec6d9e6e45cad0b33ba79feda5e11ecbc0f2171a5c9b7433934ea9.png)
 

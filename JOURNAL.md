@@ -40,7 +40,7 @@ First I wanted DF mini player & speaker on it but its budget was exceding the Ti
 
 Made schematics of the PCB, decided the components of pcb to buy.
 Finding the correct ESP along with the vendor I want to buy from was very difficult.
-Next I find the Power requirements for this ESP chip.
+Next I will find the Power requirements for this ESP chip.
 
 ![IMG-20261023-WA0003](https://halflife.hackclub-assets.com/sessions/ep1qMwQHWINzTUPCyrZHu5URMCP5PTJD/5edf77ab1e065692d164e0a6d8780eeb85f88d5c2141fdeb93c0532332f61363.jpg)
 

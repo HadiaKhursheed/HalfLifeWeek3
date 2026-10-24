@@ -26,6 +26,7 @@
 
 Let's play music in HackClub.
 Did the brainstorming for components.
+First I wanted DF mini player & speaker on it but its budget was exceding the Tier1. Then I searched for the parts for buzzer musical tones and it worked.
 
 ![20261023_200609](https://halflife.hackclub-assets.com/sessions/ep1qMwQHWINzTUPCyrZHu5URMCP5PTJD/734ab76de011bd89cf621dd4ad7c37344de7f953b47698353689920d9569b180.jpg)
 
